@@ -1,0 +1,10 @@
+;;helloworld.g++
+(set x 12)
+(set y (list 12 22 32))
+(set z (append 42 (list 12 22 32)))
+(set m (concat (list 1 2 3)(append (+ 21 32) (list (+ (+ 2 2) 3) 22 32))))
+;;helloworld.g++
+(disp x)
+(disp y)
+(disp z)
+(disp m)

@@ -1,0 +1,12 @@
+;;helloworld.g++
+(or false true false)
+(or false false false)
+(and true true true)
+(and false false false)
+(not false)
+(not true)
+(equal false true)
+(equal 13 13)
+(equal 1 33)
+(less 1 5)
+(less 3 1)
